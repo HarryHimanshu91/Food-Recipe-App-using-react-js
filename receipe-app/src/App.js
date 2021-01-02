@@ -34,8 +34,8 @@ function App() {
   const [recipe ,setRecipe] = useState([]);
   const [search,setSearch] = useState('');
   const [query,setQuery] = useState('chicken');
-  const APP_ID ="dd2a9489";
-  const APP_KEY = "c3621d978f23af56e25da34a9b9f75b9";
+  const APP_ID ="xxxxx";
+  const APP_KEY = "xxxxxx";
 
   useEffect(()=>{
     // console.log('effect runs');
